@@ -1,0 +1,5 @@
+pbr
+beautifulsoup4
+eventlet
+progressive
+lxml
